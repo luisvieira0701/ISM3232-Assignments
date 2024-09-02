@@ -12,3 +12,15 @@ const productDetails = {
 console.log(products);
 console.log(productDetails);
 
+let accountBalance = 200
+console.log("Initial Balance:", accountBalance);
+accountBalance += 200;
+console.log("Updated Balance:", accountBalance);
+accountBalance -= 150
+console.log("Updated Balance:", accountBalance);
+accountBalance *= 5
+console.log("Updated Balance:", accountBalance);
+accountBalance /= 2
+console.log("Updated Balance:", accountBalance);
+accountBalance %= 4
+console.log("Updated Balance:", accountBalance);
