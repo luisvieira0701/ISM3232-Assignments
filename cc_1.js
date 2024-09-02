@@ -24,3 +24,13 @@ accountBalance /= 2
 console.log("Updated Balance:", accountBalance);
 accountBalance %= 4
 console.log("Updated Balance:", accountBalance);
+
+let employeeScore1 = 79
+let employeeScore2 = 85
+
+console.log(employeeScore1 > employeeScore2);
+console.log(employeeScore1 < employeeScore2);
+console.log(employeeScore1 >= employeeScore2);
+console.log(employeeScore1 <= employeeScore2);
+console.log(employeeScore1 === employeeScore2);
+console.log(employeeScore1 !== employeeScore2);
